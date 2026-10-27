@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "Reliance Industries",
+        "role": "Sales Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Amazon",
+        "role": "Sales Associate",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Flipkart",
+        "role": "Sales Executive",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 3.8,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "HDFC Bank",
+        "role": "Sales Officer",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 3.5,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "ICICI Bank",
+        "role": "Relationship Manager",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Tata Motors",
+        "role": "Sales Executive",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 3.6,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Mahindra",
+        "role": "Sales Associate",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.8,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Asian Paints",
+        "role": "Sales Trainee",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Marico",
+        "role": "Sales Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.7,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "PepsiCo",
+        "role": "Sales Associate",
+        "interviewPlace": "Gurugram Office",
+        "packageLpa": 4.2,
+        "location": "Gurugram, Haryana",
+        "mode": "Offline"
+    }
+]

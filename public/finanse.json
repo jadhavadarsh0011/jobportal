@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "HDFC Bank",
+        "role": "Financial Analyst",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "ICICI Bank",
+        "role": "Finance Associate",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.2,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Axis Bank",
+        "role": "Financial Analyst",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Kotak Mahindra Bank",
+        "role": "Finance Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4.5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Deloitte",
+        "role": "Audit Analyst",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 5,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "EY",
+        "role": "Tax Analyst",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4.5,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "KPMG",
+        "role": "Financial Analyst",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "PwC",
+        "role": "Audit Associate",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.5,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Genpact",
+        "role": "Finance Analyst",
+        "interviewPlace": "Gurugram Office",
+        "packageLpa": 4,
+        "location": "Gurugram, Haryana",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Bajaj Finserv",
+        "role": "Finance Executive",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.2,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    }
+]

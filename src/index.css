@@ -1,0 +1,13 @@
+/* Chrome, Edge, Safari */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* Firefox */
+* {
+    scrollbar-width: none;
+    
+}
+body{
+    background-color: rgb(246, 255, 255);
+}

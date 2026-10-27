@@ -1,0 +1,42 @@
+.filds{
+    display:flex;
+    display:ruby;
+   
+/* gap: %; */
+}
+.filds .filds_info{
+    background-color:rgba(255, 253, 253, 0.966);
+    border-radius: 15px;
+    border: 1px solid rgb(233, 230, 226);
+    margin-left: 20px;
+    width: 23%;
+    height: 350px;
+    margin-top: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.com_name{
+    font-size: 25px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.role{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    color: rgba(17, 0, 255, 0.692);
+    margin-left: 10px;
+}
+.filds button{
+    margin-left: 70px;
+    width: 150px;
+    height: 30px;
+    background-color:rgba(17, 0, 255, 0.692);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+a{
+    color: white;
+    border: none;
+}

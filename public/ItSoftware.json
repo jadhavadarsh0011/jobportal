@@ -1,0 +1,82 @@
+[
+  {
+    "companyName": "TCS",
+    "role": "Java Developer",
+    "interviewPlace": "Pune Office",
+    "packageLpa": 4.5,
+    "location": "Pune, Maharashtra",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "Infosys",
+    "role": "Systems Engineer",
+    "interviewPlace": "Bengaluru Office",
+    "packageLpa": 5,
+    "location": "Bengaluru, Karnataka",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "Wipro",
+    "role": "Software Developer",
+    "interviewPlace": "Hyderabad Office",
+    "packageLpa": 4,
+    "location": "Hyderabad, Telangana",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "IBM",
+    "role": "Associate Software Developer",
+    "interviewPlace": "Online",
+    "packageLpa": 6,
+    "location": "Bengaluru, Karnataka",
+    "mode": "Online"
+  },
+  {
+    "companyName": "Accenture",
+    "role": "Application Developer",
+    "interviewPlace": "Pune Office",
+    "packageLpa": 4.5,
+    "location": "Pune, Maharashtra",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "Capgemini",
+    "role": "Java Developer",
+    "interviewPlace": "Mumbai Office",
+    "packageLpa": 4.2,
+    "location": "Mumbai, Maharashtra",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "Cognizant",
+    "role": "Programmer Analyst",
+    "interviewPlace": "Pune Office",
+    "packageLpa": 4,
+    "location": "Pune, Maharashtra",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "HCLTech",
+    "role": "Graduate Engineer Trainee",
+    "interviewPlace": "Online",
+    "packageLpa": 4,
+    "location": "Noida, Uttar Pradesh",
+    "mode": "Online"
+  },
+  {
+    "companyName": "Tech Mahindra",
+    "role": "Associate Software Engineer",
+    "interviewPlace": "Pune Office",
+    "packageLpa": 4.5,
+    "location": "Pune, Maharashtra",
+    "mode": "Offline"
+  },
+  {
+    "companyName": "Persistent Systems",
+    "role": "Software Engineer",
+    "interviewPlace": "Pune Office",
+    "packageLpa": 5.5,
+    "location": "Pune, Maharashtra",
+    "mode": "Offline"
+  }
+]

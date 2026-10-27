@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "Apollo Hospitals",
+        "role": "Healthcare Executive",
+        "interviewPlace": "Hyderabad Office",
+        "packageLpa": 3.5,
+        "location": "Hyderabad, Telangana",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Fortis Healthcare",
+        "role": "Healthcare Associate",
+        "interviewPlace": "Delhi Office",
+        "packageLpa": 3.8,
+        "location": "New Delhi, Delhi",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Max Healthcare",
+        "role": "Hospital Administrator",
+        "interviewPlace": "Delhi Office",
+        "packageLpa": 4,
+        "location": "New Delhi, Delhi",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Manipal Hospitals",
+        "role": "Healthcare Coordinator",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 3.5,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Piramal Pharma",
+        "role": "Pharma Associate",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Sun Pharma",
+        "role": "Pharma Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4.2,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Dr. Reddy's Laboratories",
+        "role": "Healthcare Analyst",
+        "interviewPlace": "Hyderabad Office",
+        "packageLpa": 4.5,
+        "location": "Hyderabad, Telangana",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Cipla",
+        "role": "Pharma Associate",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Zydus Lifesciences",
+        "role": "Healthcare Executive",
+        "interviewPlace": "Ahmedabad Office",
+        "packageLpa": 3.8,
+        "location": "Ahmedabad, Gujarat",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Apollo Pharmacy",
+        "role": "Pharmacy Executive",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 3.2,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    }
+]

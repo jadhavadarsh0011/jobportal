@@ -1,0 +1,48 @@
+.login_contant{
+    display: flex;
+    gap: 0px;
+}
+.login{
+    margin-left: 20px;
+    margin-top: 50px;
+    background-color: rgb(231, 49, 192);
+    height: 500px;
+    width: 600px;
+    text-align: center;
+    font-size: 25px;
+}
+.login1 img{
+    margin-top: 50px;
+    height: 502px;
+    width: 700px;
+}
+.login input{
+    height: 30px;
+    width: 65%;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: none;
+}
+.login button{
+    background-color:rgb(63, 81, 230);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 40%;
+    height: 35px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+.login button:hover {
+    background-color: #1dc2d8;
+}
+.login p{
+    font-size: 17px;
+}
+.login i{
+    color: rgb(49, 4, 175);
+}

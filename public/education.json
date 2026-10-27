@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "Byju's",
+        "role": "Academic Counselor",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 3.5,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Unacademy",
+        "role": "Education Executive",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Vedantu",
+        "role": "Academic Counselor",
+        "interviewPlace": "Online",
+        "packageLpa": 3.5,
+        "location": "India",
+        "mode": "Online"
+    },
+    {
+        "companyName": "upGrad",
+        "role": "Student Counselor",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Simplilearn",
+        "role": "Education Counselor",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Physics Wallah",
+        "role": "Academic Counselor",
+        "interviewPlace": "Noida Office",
+        "packageLpa": 3.5,
+        "location": "Noida, Uttar Pradesh",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Great Learning",
+        "role": "Program Advisor",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4.2,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Toppr",
+        "role": "Education Counselor",
+        "interviewPlace": "Online",
+        "packageLpa": 3.5,
+        "location": "India",
+        "mode": "Online"
+    },
+    {
+        "companyName": "WhiteHat Jr",
+        "role": "Education Counselor",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.8,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "upGrad Campus",
+        "role": "Student Success Associate",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    }
+]

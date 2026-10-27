@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "Adobe",
+        "role": "UI Designer",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 6,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Canva",
+        "role": "Graphic Designer",
+        "interviewPlace": "Online",
+        "packageLpa": 5,
+        "location": "India",
+        "mode": "Online"
+    },
+    {
+        "companyName": "Figma",
+        "role": "UI/UX Designer",
+        "interviewPlace": "Online",
+        "packageLpa": 6,
+        "location": "India",
+        "mode": "Online"
+    },
+    {
+        "companyName": "TCS",
+        "role": "UI Designer",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Infosys",
+        "role": "UX Designer",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 5,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Accenture",
+        "role": "UX Design Associate",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.5,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Wipro",
+        "role": "Visual Designer",
+        "interviewPlace": "Hyderabad Office",
+        "packageLpa": 4,
+        "location": "Hyderabad, Telangana",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Zoho",
+        "role": "Product Designer",
+        "interviewPlace": "Chennai Office",
+        "packageLpa": 5,
+        "location": "Chennai, Tamil Nadu",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Freshworks",
+        "role": "UX Designer",
+        "interviewPlace": "Chennai Office",
+        "packageLpa": 5.5,
+        "location": "Chennai, Tamil Nadu",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Deloitte",
+        "role": "Visual Designer",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    }
+]

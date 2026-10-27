@@ -1,0 +1,35 @@
+.footer_text{
+    display: flex;
+    gap: 7%;
+    background-color: #e3fff6; 
+    font-size: 15px; 
+    margin-top: 20px;
+    padding: 5px;
+}
+.footer_text p{
+    border-left: 1px solid rgb(209, 209, 206); 
+    padding: 4px;
+}
+.footer_info{
+    margin-top: 30px;
+    background-color:rgb(35, 24, 131);
+    height: 370px;
+    font-size: 15px;
+    color: white;
+   
+}
+.footer_info2{
+    padding: 20px;
+    color: white;
+    border-bottom: 1px solid rgb(151, 148, 148);
+    display: flex;
+    gap: 10%    ;
+  cursor: pointer;
+}
+.copyright{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.footer_info a{
+    color: #e3fff6;
+}

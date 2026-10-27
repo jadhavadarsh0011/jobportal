@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "Dentsu",
+        "role": "Digital Marketing Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "WPP",
+        "role": "Marketing Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Publicis Groupe",
+        "role": "Marketing Analyst",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.2,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Ogilvy",
+        "role": "Brand Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.8,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "GroupM",
+        "role": "Media Planner",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Schbang",
+        "role": "Digital Marketing Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Social Beat",
+        "role": "Performance Marketing Executive",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "iProspect",
+        "role": "SEO Executive",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 3.6,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Growth Hackers",
+        "role": "Growth Marketing Associate",
+        "interviewPlace": "Online",
+        "packageLpa": 4.5,
+        "location": "India",
+        "mode": "Online"
+    },
+    {
+        "companyName": "Madison World",
+        "role": "Marketing Associate",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 3.8,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    }
+]

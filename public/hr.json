@@ -1,0 +1,82 @@
+[
+    {
+        "companyName": "TCS",
+        "role": "HR Executive",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Infosys",
+        "role": "HR Associate",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4.2,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Wipro",
+        "role": "HR Executive",
+        "interviewPlace": "Hyderabad Office",
+        "packageLpa": 4,
+        "location": "Hyderabad, Telangana",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Accenture",
+        "role": "HR Associate",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4.5,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Deloitte",
+        "role": "HR Analyst",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 5,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Amazon",
+        "role": "HR Coordinator",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4.5,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Flipkart",
+        "role": "HR Executive",
+        "interviewPlace": "Bengaluru Office",
+        "packageLpa": 4,
+        "location": "Bengaluru, Karnataka",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Cognizant",
+        "role": "HR Associate",
+        "interviewPlace": "Pune Office",
+        "packageLpa": 4,
+        "location": "Pune, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Capgemini",
+        "role": "HR Executive",
+        "interviewPlace": "Mumbai Office",
+        "packageLpa": 4.2,
+        "location": "Mumbai, Maharashtra",
+        "mode": "Offline"
+    },
+    {
+        "companyName": "Genpact",
+        "role": "HR Analyst",
+        "interviewPlace": "Gurugram Office",
+        "packageLpa": 4,
+        "location": "Gurugram, Haryana",
+        "mode": "Offline"
+    }
+]
